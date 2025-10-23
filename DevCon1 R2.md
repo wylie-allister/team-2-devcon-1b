@@ -11,7 +11,11 @@ Month, Day, Year
 ## Game Vision and Outcome
 Inverse idea of the prior prototype where the player was restricted, now giving them not only full control and freedom but taking inspiration from action games with combos or combo meters for the game's mechanic.  
 
-The player would once again balance a resource but it's about building it up and maintaining it rather than choosing where to use it. The vision was to explore a gameplay loop revolving around having an extreme variable in speed. Essentially, allowing the player to move around a 3D space incredibly quickly, which is a mechanic that is rarely seen in games. Our main example to inspire the idea is endgame movement in the 'Borderlands' franchise, but it is limited to endgame. We wanted to explore it as a core mechanic, and what options that might give the player as a unique movement experience. The final vision would be that the speed gained from defeating enemies would decay at a rate that would encourage the user to make a choice; gain more speed by eliminating enemies in quick succession, maintain speed by exploring a level and defeating an enemy every so often, or lose speed by burning it off by exploring the level and leaving enemies alone. Another core aspect of the final vision is that the movement feels satisfying to the player, and not overwhelming or uncontrollable.  
+The player would once again balance a resource but it's about building it up and maintaining it rather than choosing where to use it. The vision was to explore a gameplay loop revolving around having an extreme variable in speed. Essentially, allowing the player to move around a 3D space incredibly quickly, which is a mechanic that is rarely seen in games. Our main example to inspire the idea is endgame movement in the 'Borderlands' franchise, but it is limited to endgame. We wanted to explore it as a core mechanic, and what options that might give the player as a unique movement experience. 
+
+The final vision would be that the speed gained from defeating enemies would decay at a rate that would encourage the user to make a choice; gain more speed by eliminating enemies in quick succession, maintain speed by exploring a level and defeating an enemy every so often, or lose speed by burning it off by exploring the level and leaving enemies alone. 
+
+Another core aspect of the final vision is that the movement feels satisfying to the player, and not overwhelming or uncontrollable.  
 
 
 ### Objective Statement  
