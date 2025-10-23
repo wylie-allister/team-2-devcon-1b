@@ -47,7 +47,7 @@ The aesthetic would be along the lines of something that reinforces that quick a
 
 The concept for the aesthetics would be predicated on the idea that the player is 'absorbing' something from the enemies as they are defeated, which is allowing the increased speed. Given the mechanic, thematically this makes the most sense, therefore we are leaning towards the electrical aesthetic. Currently, the idea for the game aesthetic would be that the player is either a superhuman individual, or some technologically advanced construct, that gets faster based on how overcharged they are. Enemies would all be storing energy in some form or another that the player instantly absorbs on defeating them, adding to the players overcharge.
 
-The aesthetic of the game would also be cartoonish, something similar to Borderlands, Genshin or Journey. The reason being that the player moving at these kinds of speeds are going to cause potential rendering issues of assets if they are too high fidelity. Aesthetically, this game must be as simple as possible, especially considering the size of some of the potential map designes. If the game has too much detail, moving at very high speeds will be completely disorienting.
+The aesthetic of the game would also be cartoonish, something similar to Borderlands, Genshin or Journey. The reason being that the player moving at these kinds of speeds are going to cause potential rendering issues of assets if they are too high fidelity. Aesthetically, this game must be as simple as possible, especially considering the size of some of the potential map designs. If the game has too much detail, moving at very high speeds will be completely disorienting.
 
 
 ### Roles  
